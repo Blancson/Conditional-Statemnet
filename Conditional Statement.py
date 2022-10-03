@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 #Enter a value for points.
 points = int(input('Enter points: '))
